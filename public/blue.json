@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "blue"
+  },
+  "content": {
+    "variables": {
+      "background": "#0000FF",
+      "color": "#FFFFFF",
+      "color2": "#3399FF",
+      "box": "#42A5F5",
+      "box2": "#1E88E5",
+      "box3": "#2196F3",
+      "button": "#1E88E5",
+      "buttonHoverColor": "#1565C0"
+    }
+  }
+}
