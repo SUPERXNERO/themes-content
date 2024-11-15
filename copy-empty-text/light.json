@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "light"
+  },
+  "content": {
+    "variables": {
+      "background": "#F4F5F7",
+      "color": "#2E2E33",
+      "color2": "#57575D",
+      "box": "#FFFFFF",
+      "box2": "#E8E9ED",
+      "box3": "#D1D3DA",
+      "button": "#28A4FF",
+      "buttonHoverColor": "#42ACFF"
+    }
+  }
+}
