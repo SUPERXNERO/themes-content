@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "orange"
+  },
+  "content": {
+    "variables": {
+      "background": "#FF8C42",
+      "color": "#FFFFFF",
+      "color2": "#FFB574",
+      "box": "#FF7F4D",
+      "box2": "#FF9E64",
+      "box3": "#FFB38F",
+      "button": "#FF6F00",
+      "buttonHoverColor": "#FF8F00"
+    }
+  }
+}
