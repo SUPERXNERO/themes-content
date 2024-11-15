@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "red"
+  },
+  "content": {
+    "variables": {
+      "background": "#D32F2F",
+      "color": "#FFFFFF",
+      "color2": "#FF6659",
+      "box": "#B71C1C",
+      "box2": "#C62828",
+      "box3": "#E57373",
+      "button": "#FF7043",
+      "buttonHoverColor": "#F4511E"
+    }
+  }
+}
