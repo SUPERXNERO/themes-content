@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "violet"
+  },
+  "content": {
+    "variables": {
+      "background": "#8B00FF",
+      "color": "#FFFFFF",
+      "color2": "#9C27B0",
+      "box": "#AB47BC",
+      "box2": "#8E24AA",
+      "box3": "#7B1FA2",
+      "button": "#8E24AA",
+      "buttonHoverColor": "#7B1FA2"
+    }
+  }
+}
