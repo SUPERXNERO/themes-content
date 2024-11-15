@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "dark"
+  },
+  "content": {
+    "variables": {
+      "background": "#1C2127",
+      "color": "#E2E2E6",
+      "color2": "#A2A2A6",
+      "box": "#31353E",
+      "box2": "#444750",
+      "box3": "#5A5D68",
+      "button": "#3C86BD",
+      "buttonHoverColor": "#3e7be0"
+    }
+  }
+}
