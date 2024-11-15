@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "pink"
+  },
+  "content": {
+    "variables": {
+      "background": "#C2185B",
+      "color": "#FFFFFF",
+      "color2": "#FF80AB",
+      "box": "#F06292",
+      "box2": "#EC407A",
+      "box3": "#F48FB1",
+      "button": "#D81B60",
+      "buttonHoverColor": "#C2185B"
+    }
+  }
+}
