@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "yellow"
+  },
+  "content": {
+    "variables": {
+      "background": "#FFFF00",
+      "color": "#333333",
+      "color2": "#CCCC00",
+      "box": "#FFFF66",
+      "box2": "#FFFF33",
+      "box3": "#FFCC00",
+      "button": "#FFEB3B",
+      "buttonHoverColor": "#FBC02D"
+    }
+  }
+}
