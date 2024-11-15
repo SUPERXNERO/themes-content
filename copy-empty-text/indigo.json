@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "themeCode": "indigo"
+  },
+  "content": {
+    "variables": {
+      "background": "#4B0082",
+      "color": "#FFFFFF",
+      "color2": "#6A5ACD",
+      "box": "#3F51B5",
+      "box2": "#3949AB",
+      "box3": "#5C6BC0",
+      "button": "#5C6BC0",
+      "buttonHoverColor": "#3F51B5"
+    }
+  }
+}
