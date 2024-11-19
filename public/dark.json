@@ -12,7 +12,10 @@
       "box3": "#5A5D68",
       "box4": "#6C7078",
       "button": "#3C86BD",
-      "buttonHoverColor": "#3e7be0"
+      "buttonHoverColor": "#3e7be0",
+      "success": "#4CAF50",
+      "error": "#F44336",
+      "warning": "#CE9D06"
     }
   }
 }
