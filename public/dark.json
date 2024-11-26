@@ -15,7 +15,9 @@
       "buttonHoverColor": "#3e7be0",
       "success": "#4CAF50",
       "error": "#F44336",
-      "warning": "#CE9D06"
+      "warning": "#CE9D06",
+      "black": "#000000",
+      "white": "#ffffff"
     }
   }
 }
