@@ -4,18 +4,17 @@
   },
   "content": {
     "variables": {
-      "background": "#F4F5F7",
-      "color": "#2E2E33",
-      "color2": "#57575D",
+      "background": "#F7F9FC",
+      "color": "#1A1A1A",
+      "color2": "#1A1A1A77",
       "box": "#FFFFFF",
-      "box2": "#E8E9ED",
-      "box3": "#D1D3DA",
-      "box4": "#BFC1C8",
-      "button": "#28A4FF",
-      "buttonHoverColor": "#42ACFF",
-      "success": "#63E267",
-      "error": "#FF5E66",
-      "warning": "#FFC107",
+      "box2": "#F1F3F6",
+      "box3": "#E6E9ED",
+      "box4": "#DDE2E8",
+      "button": "#5EA7FF",
+      "success": "#4CAF50",
+      "error": "#F44336",
+      "warning": "#CE9D06",
       "black": "#000000",
       "white": "#ffffff"
     }
