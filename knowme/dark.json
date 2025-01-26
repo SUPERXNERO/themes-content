@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "themeCode": "dark"
+  },
+  "content": {
+    "variables": {
+      "background": "#0F2437",
+      "color": "#E2E2E6",
+      "color2": "#E2E2E677",
+      "box": "#1F384C",
+      "box2": "#274056",
+      "box3": "#2F4A5F",
+      "box4": "#506B8B",
+      "box5": "#274F7E",
+      "button": "#1970D9",
+      "success": "#4CAF50",
+      "error": "#F44336",
+      "warning": "#CE9D06",
+      "black": "#000000",
+      "white": "#ffffff"
+    }
+  }
+}
