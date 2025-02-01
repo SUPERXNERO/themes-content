@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "themeCode": "light"
+  },
+  "content": {
+    "variables": {
+      "background": "#F0F4F7",
+      "color": "#0F2437",
+      "color2": "#0F243777",
+      "color3": "#14161C",
+      "box": "#E6EDF2",
+      "box2": "#DFE6EC",
+      "box3": "#D8E0E6",
+      "box4": "#B7C6D6",
+      "box5": "#AEC3E1",
+      "box6": "#3D91BA",
+      "box7": "#CFD9E3",
+      "box8": "#94D0FF",
+      "box9": "#BCE2FF",
+      "box10": "#8AE9E8",
+      "button": "#2D8DFF",
+      "success": "#4CAF50",
+      "error": "#F44336",
+      "warning": "#FFA000",
+      "black": "#000000",
+      "white": "#ffffff"
+    }
+  }
+}
